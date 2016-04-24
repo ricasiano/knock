@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SelectDoor.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SelectDoor.cs" Line="55" Column="16" />
+      <File FileName="Assets\Cardboard\DemoScene\Teleport.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SplashTrigger.cs" Line="6" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
